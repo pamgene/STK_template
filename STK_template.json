@@ -1094,6 +1094,102 @@
    "id": "7e47767b-eef2-4185-94e2-343ba65b273a",
    "inputId": "7d9dcc7b-455b-11f1-add3-c9c7595227b7",
    "outputId": "98c1c8e8-d114-43ea-a65a-7ce17d094e21-o-0"
+  },
+  {
+   "kind": "Link",
+   "id": "11f92dab-33a8-4bad-b68c-124bbdc21d4e",
+   "inputId": "5961cc53-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "5961a542-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "b72b0b5a-8bea-4e6b-bad0-ac2950940da3",
+   "inputId": "5961a541-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "5961cc51-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "8c7f6201-cd48-40df-8ee0-c444b25b7348",
+   "inputId": "5961cc50-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "5961cc56-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "733c2e41-30fd-4182-b103-dd9e9f9ebfc7",
+   "inputId": "5961cc55-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "41d7d3c9-455b-11f1-add3-c9c7595227b7"
+  },
+  {
+   "kind": "Link",
+   "id": "e02a8ae9-a720-4df4-8e4a-a0c6fe09e538",
+   "inputId": "5efb0e63-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "5efae752-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "efc6fb5b-56cf-443f-97eb-91f1b99c3615",
+   "inputId": "5efae751-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "5efb0e61-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "08a9a0bb-7506-4de4-867b-16667248f880",
+   "inputId": "5efb0e60-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "5efb0e66-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "c3e04a9b-4a89-49b9-936c-1f25c7dd3786",
+   "inputId": "5efb0e65-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "4616dd21-455b-11f1-add3-c9c7595227b7"
+  },
+  {
+   "kind": "Link",
+   "id": "74d45b14-73a4-4207-bdd9-8617002288ca",
+   "inputId": "69c1b157-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "69c1b152-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "016bd93c-2c21-4398-aad2-d55be6dd7b85",
+   "inputId": "69c1b151-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "69c1b155-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "4ca8f58d-6584-4f6f-ad9f-81732bb57fa6",
+   "inputId": "69c1b154-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "69c1d861-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "90e335ec-7aa5-43a2-8b79-2ec25ac4a244",
+   "inputId": "69c1d860-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "73b29564-455b-11f1-add3-c9c7595227b7"
+  },
+  {
+   "kind": "Link",
+   "id": "df9d12fe-89ee-43e2-843b-7c83aade053a",
+   "inputId": "6fe24bd7-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "6fe24bd2-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "db2d2c04-d7a0-4e1e-bb13-d55e4d32744f",
+   "inputId": "6fe24bd1-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "6fe24bd5-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "9c95cdcd-931b-42bc-9a1e-49d56dc36ca9",
+   "inputId": "6fe24bd4-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "6fe24bda-4e14-11f1-b74b-176c6480e1cf"
+  },
+  {
+   "kind": "Link",
+   "id": "8281037a-65e8-40aa-b2be-dc8bbf589bb4",
+   "inputId": "6fe24bd9-4e14-11f1-b74b-176c6480e1cf",
+   "outputId": "7d9dcc7f-455b-11f1-add3-c9c7595227b7"
   }
  ],
  "steps": [
@@ -2337,7 +2433,7 @@
       "kind": "OperatorRef",
       "name": "PCA Explorer",
       "version": "0.0.2",
-      "operatorId": "19",
+      "operatorId": "20",
       "operatorKind": "WebAppOperator",
       "propertyValues": [
        {
@@ -3093,7 +3189,7 @@
       "kind": "OperatorRef",
       "name": "PCA Explorer",
       "version": "0.0.2",
-      "operatorId": "18",
+      "operatorId": "19",
       "operatorKind": "WebAppOperator",
       "propertyValues": [
        {
@@ -3480,7 +3576,7 @@
       "kind": "OperatorRef",
       "name": "PCA Explorer",
       "version": "0.0.2",
-      "operatorId": "19",
+      "operatorId": "20",
       "operatorKind": "WebAppOperator",
       "propertyValues": [
        {
@@ -3824,7 +3920,7 @@
       "kind": "OperatorRef",
       "name": "PCA Explorer",
       "version": "0.0.2",
-      "operatorId": "19",
+      "operatorId": "20",
       "operatorKind": "WebAppOperator",
       "propertyValues": [
        {
@@ -4991,7 +5087,7 @@
       "kind": "OperatorRef",
       "name": "Mean-Variance Operator",
       "version": "0.0.1",
-      "operatorId": "20",
+      "operatorId": "21",
       "operatorKind": "WebAppOperator",
       "propertyValues": [],
       "url": {
@@ -7973,7 +8069,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -9466,7 +9562,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -10939,7 +11035,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -12412,7 +12508,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "6",
+      "operatorId": "7",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -18232,7 +18328,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -20994,7 +21090,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -22667,7 +22763,7 @@
       "kind": "OperatorRef",
       "name": "UKA operator",
       "version": "0.5.13",
-      "operatorId": "21",
+      "operatorId": "22",
       "operatorKind": "DockerOperator",
       "propertyValues": [
        {
@@ -24045,7 +24141,7 @@
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.3",
-      "operatorId": "17",
+      "operatorId": "18",
       "operatorKind": "WebAppOperator",
       "propertyValues": [],
       "url": {
@@ -25464,7 +25560,7 @@
       "kind": "OperatorRef",
       "name": "UKA operator",
       "version": "0.5.13",
-      "operatorId": "21",
+      "operatorId": "22",
       "operatorKind": "DockerOperator",
       "propertyValues": [
        {
@@ -26842,7 +26938,7 @@
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.3",
-      "operatorId": "17",
+      "operatorId": "18",
       "operatorKind": "WebAppOperator",
       "propertyValues": [],
       "url": {
@@ -29340,7 +29436,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -32112,7 +32208,7 @@
       "kind": "OperatorRef",
       "name": "Scale (Z-Score)",
       "version": "0.12.2",
-      "operatorId": "7",
+      "operatorId": "6",
       "operatorKind": "ROperator",
       "propertyValues": [
        {
@@ -33785,7 +33881,7 @@
       "kind": "OperatorRef",
       "name": "UKA operator",
       "version": "0.5.13",
-      "operatorId": "21",
+      "operatorId": "22",
       "operatorKind": "DockerOperator",
       "propertyValues": [
        {
@@ -35163,7 +35259,7 @@
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.3",
-      "operatorId": "17",
+      "operatorId": "18",
       "operatorKind": "WebAppOperator",
       "propertyValues": [],
       "url": {
@@ -36572,7 +36668,7 @@
       "kind": "OperatorRef",
       "name": "UKA operator",
       "version": "0.5.13",
-      "operatorId": "21",
+      "operatorId": "22",
       "operatorKind": "DockerOperator",
       "propertyValues": [
        {
@@ -37950,7 +38046,7 @@
       "kind": "OperatorRef",
       "name": "Volcano Plot",
       "version": "0.0.3",
-      "operatorId": "17",
+      "operatorId": "18",
       "operatorKind": "WebAppOperator",
       "propertyValues": [],
       "url": {
@@ -39157,12 +39253,2996 @@
     "x": -224.0,
     "y": 184.0
    }
+  },
+  {
+   "kind": "DataStep",
+   "id": "5961a543-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5961a540-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Dot Plot Operator",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5961a541-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "5961a542-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 122.24185180664062,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 709.8790740966797,
+     "y": 284.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "model": {
+    "kind": "Crosstab",
+    "axis": {
+     "kind": "XYAxisList",
+     "rectangleSelections": [],
+     "xyAxis": [
+      {
+       "kind": "XYAxis",
+       "chart": {
+        "kind": "ChartPoint",
+        "name": "",
+        "properties": {
+         "kind": "Properties",
+         "properties": [],
+         "propertyValues": []
+        },
+        "pointSize": 4
+       },
+       "colors": {
+        "kind": "Colors",
+        "factors": [
+         {
+          "kind": "Factor",
+          "name": "Median Kinase Statistic",
+          "type": "double"
+         }
+        ],
+        "palette": {
+         "kind": "JetPalette",
+         "backcolor": 0,
+         "properties": [],
+         "isUserDefined": false,
+         "doubleColorElements": [
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "-54.12887750594061"
+          },
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "59.1175453720017"
+          }
+         ]
+        }
+       },
+       "errors": {
+        "kind": "Errors",
+        "factors": []
+       },
+       "labels": {
+        "kind": "Labels",
+        "factors": []
+       },
+       "xAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 62.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Kinase Name",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "yAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "taskId": "",
+       "preprocessors": []
+      }
+     ]
+    },
+    "columnTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 217.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 4
+    },
+    "filters": {
+     "kind": "Filters",
+     "removeNaN": true,
+     "namedFilters": [
+      {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      }
+     ]
+    },
+    "operatorSettings": {
+     "kind": "OperatorSettings",
+     "namespace": "ds02",
+     "operatorRef": {
+      "kind": "OperatorRef",
+      "name": "Dot Plot Operator",
+      "version": "0.1.5",
+      "operatorId": "17",
+      "operatorKind": "ROperator",
+      "propertyValues": [
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLowerLimit",
+        "value": "-0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorUpperLimit",
+        "value": "0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLowerLimit",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeUpperLimit",
+        "value": "2"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MinDotSize",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MaxDotSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "Layout",
+        "value": "Horizontal"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "PlotSize",
+        "value": "12"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "LabelFontSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLegendName",
+        "value": "Specificity"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLegendName",
+        "value": "Fold Change"
+       }
+      ],
+      "url": {
+       "kind": "Url",
+       "uri": "https://github.com/pamgene/dotplot_operator"
+      },
+      "operatorSpec": {
+       "kind": "OperatorSpec",
+       "ontologyUri": "",
+       "ontologyVersion": "",
+       "inputSpecs": [],
+       "outputSpecs": [],
+       "outputSpecsV2": []
+      }
+     },
+     "environment": [],
+     "operatorModel": {
+      "kind": "OperatorModel"
+     }
+    },
+    "rowTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 63.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 16
+    },
+    "taskId": ""
+   },
+   "computedRelation": {
+    "kind": "Relation",
+    "id": "e7909fd3-75e2-462d-9d59-acdd9345dcaa"
+   },
+   "parentDataStepId": ""
+  },
+  {
+   "kind": "WizardStep",
+   "id": "5961cc52-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5961a540-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Wizard",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5961cc50-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "5961cc51-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 726.505,
+     "y": 162.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Create a generic workflow.",
+   "model": {
+    "kind": "WizardStepModel",
+    "namespace": "UKA_dotplot_app",
+    "description": "",
+    "appDesignType": "UKA_dotplot_app",
+    "factors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "filters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      },
+      "isRequired": false
+     }
+    ],
+    "steps": [],
+    "defaultFactors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Mean Specificity Score",
+        "type": "double"
+       }
+      ],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Name",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       }
+      ],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Median Kinase Statistic",
+        "type": "double"
+       }
+      ],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "defaultFilters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Specificity filter"
+      },
+      "isRequired": false
+     }
+    ]
+   }
+  },
+  {
+   "kind": "ViewStep",
+   "id": "5961cc54-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5961a540-4e14-11f1-b74b-176c6480e1cf",
+   "name": "View",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5961cc53-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "in"
+    }
+   ],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 723.505,
+     "y": 368.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Used to define view in a sub workflow."
+  },
+  {
+   "kind": "InStep",
+   "id": "5961cc57-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5961a540-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Input",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5961cc55-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "from"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "5961cc56-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "to"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 730.505,
+     "y": 43.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Input of a sub workflow.",
+   "groupPortPosition": {
+    "kind": "Point",
+    "x": 883.8696899414062,
+    "y": 910.5
+   }
+  },
+  {
+   "kind": "GroupStep",
+   "id": "5961a540-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "",
+   "name": "UKA_Sgroup_dotplot",
+   "inputs": [],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 144.10989379882812,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 815.8147430419922,
+     "y": 918.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "appId": "9e3c35bcfe1a3984fd0fe87285fb95a3",
+   "appName": "UKA_dotplot_app",
+   "version": "0.0.5",
+   "offset": {
+    "kind": "Point",
+    "x": -70.0,
+    "y": 16.0
+   }
+  },
+  {
+   "kind": "DataStep",
+   "id": "5efae753-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5efae750-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Dot Plot Operator",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5efae751-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "5efae752-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 122.24185180664062,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 709.8790740966797,
+     "y": 284.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "model": {
+    "kind": "Crosstab",
+    "axis": {
+     "kind": "XYAxisList",
+     "rectangleSelections": [],
+     "xyAxis": [
+      {
+       "kind": "XYAxis",
+       "chart": {
+        "kind": "ChartPoint",
+        "name": "",
+        "properties": {
+         "kind": "Properties",
+         "properties": [],
+         "propertyValues": []
+        },
+        "pointSize": 4
+       },
+       "colors": {
+        "kind": "Colors",
+        "factors": [
+         {
+          "kind": "Factor",
+          "name": "Median Kinase Statistic",
+          "type": "double"
+         }
+        ],
+        "palette": {
+         "kind": "JetPalette",
+         "backcolor": 0,
+         "properties": [],
+         "isUserDefined": false,
+         "doubleColorElements": [
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "-54.12887750594061"
+          },
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "59.1175453720017"
+          }
+         ]
+        }
+       },
+       "errors": {
+        "kind": "Errors",
+        "factors": []
+       },
+       "labels": {
+        "kind": "Labels",
+        "factors": []
+       },
+       "xAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 62.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Kinase Name",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "yAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "taskId": "",
+       "preprocessors": []
+      }
+     ]
+    },
+    "columnTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 217.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 4
+    },
+    "filters": {
+     "kind": "Filters",
+     "removeNaN": true,
+     "namedFilters": [
+      {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      }
+     ]
+    },
+    "operatorSettings": {
+     "kind": "OperatorSettings",
+     "namespace": "ds020",
+     "operatorRef": {
+      "kind": "OperatorRef",
+      "name": "Dot Plot Operator",
+      "version": "0.1.5",
+      "operatorId": "17",
+      "operatorKind": "ROperator",
+      "propertyValues": [
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLowerLimit",
+        "value": "-0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorUpperLimit",
+        "value": "0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLowerLimit",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeUpperLimit",
+        "value": "2"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MinDotSize",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MaxDotSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "Layout",
+        "value": "Horizontal"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "PlotSize",
+        "value": "12"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "LabelFontSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLegendName",
+        "value": "Specificity"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLegendName",
+        "value": "Fold Change"
+       }
+      ],
+      "url": {
+       "kind": "Url",
+       "uri": "https://github.com/pamgene/dotplot_operator"
+      },
+      "operatorSpec": {
+       "kind": "OperatorSpec",
+       "ontologyUri": "",
+       "ontologyVersion": "",
+       "inputSpecs": [],
+       "outputSpecs": [],
+       "outputSpecsV2": []
+      }
+     },
+     "environment": [],
+     "operatorModel": {
+      "kind": "OperatorModel"
+     }
+    },
+    "rowTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 63.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 16
+    },
+    "taskId": ""
+   },
+   "computedRelation": {
+    "kind": "Relation",
+    "id": "d2814a24-6ded-4e11-94f8-474012e3f7f3"
+   },
+   "parentDataStepId": ""
+  },
+  {
+   "kind": "WizardStep",
+   "id": "5efb0e62-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5efae750-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Wizard",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5efb0e60-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "5efb0e61-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 726.505,
+     "y": 162.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Create a generic workflow.",
+   "model": {
+    "kind": "WizardStepModel",
+    "namespace": "UKA_dotplot_app0",
+    "description": "",
+    "appDesignType": "UKA_dotplot_app",
+    "factors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "filters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      },
+      "isRequired": false
+     }
+    ],
+    "steps": [],
+    "defaultFactors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Mean Specificity Score",
+        "type": "double"
+       }
+      ],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Name",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       }
+      ],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Median Kinase Statistic",
+        "type": "double"
+       }
+      ],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "defaultFilters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Specificity filter"
+      },
+      "isRequired": false
+     }
+    ]
+   }
+  },
+  {
+   "kind": "ViewStep",
+   "id": "5efb0e64-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5efae750-4e14-11f1-b74b-176c6480e1cf",
+   "name": "View",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5efb0e63-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "in"
+    }
+   ],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 723.505,
+     "y": 368.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Used to define view in a sub workflow."
+  },
+  {
+   "kind": "InStep",
+   "id": "5efb0e67-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "5efae750-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Input",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "5efb0e65-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "from"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "5efb0e66-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "to"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 730.505,
+     "y": 43.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Input of a sub workflow.",
+   "groupPortPosition": {
+    "kind": "Point",
+    "x": 1047.9795837402344,
+    "y": 910.5
+   }
+  },
+  {
+   "kind": "GroupStep",
+   "id": "5efae750-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "",
+   "name": "UKA_Test cond_dotplot",
+   "inputs": [],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 157.63385009765625,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 973.1626586914062,
+     "y": 918.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "appId": "",
+   "appName": "UKA_Sgroup_dotplot",
+   "version": "0.0.5",
+   "offset": {
+    "kind": "Point",
+    "x": -377.0,
+    "y": -467.0
+   }
+  },
+  {
+   "kind": "DataStep",
+   "id": "69c1b153-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "69c1b150-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Dot Plot Operator",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "69c1b151-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "69c1b152-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 122.24185180664062,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 709.8790740966797,
+     "y": 284.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "model": {
+    "kind": "Crosstab",
+    "axis": {
+     "kind": "XYAxisList",
+     "rectangleSelections": [],
+     "xyAxis": [
+      {
+       "kind": "XYAxis",
+       "chart": {
+        "kind": "ChartPoint",
+        "name": "",
+        "properties": {
+         "kind": "Properties",
+         "properties": [],
+         "propertyValues": []
+        },
+        "pointSize": 4
+       },
+       "colors": {
+        "kind": "Colors",
+        "factors": [
+         {
+          "kind": "Factor",
+          "name": "Median Kinase Statistic",
+          "type": "double"
+         }
+        ],
+        "palette": {
+         "kind": "JetPalette",
+         "backcolor": 0,
+         "properties": [],
+         "isUserDefined": false,
+         "doubleColorElements": [
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "-54.12887750594061"
+          },
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "59.1175453720017"
+          }
+         ]
+        }
+       },
+       "errors": {
+        "kind": "Errors",
+        "factors": []
+       },
+       "labels": {
+        "kind": "Labels",
+        "factors": []
+       },
+       "xAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 62.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Kinase Name",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "yAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "taskId": "",
+       "preprocessors": []
+      }
+     ]
+    },
+    "columnTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 217.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 4
+    },
+    "filters": {
+     "kind": "Filters",
+     "removeNaN": true,
+     "namedFilters": [
+      {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      }
+     ]
+    },
+    "operatorSettings": {
+     "kind": "OperatorSettings",
+     "namespace": "ds03",
+     "operatorRef": {
+      "kind": "OperatorRef",
+      "name": "Dot Plot Operator",
+      "version": "0.1.5",
+      "operatorId": "17",
+      "operatorKind": "ROperator",
+      "propertyValues": [
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLowerLimit",
+        "value": "-0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorUpperLimit",
+        "value": "0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLowerLimit",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeUpperLimit",
+        "value": "2"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MinDotSize",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MaxDotSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "Layout",
+        "value": "Horizontal"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "PlotSize",
+        "value": "12"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "LabelFontSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLegendName",
+        "value": "Specificity"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLegendName",
+        "value": "Fold Change"
+       }
+      ],
+      "url": {
+       "kind": "Url",
+       "uri": "https://github.com/pamgene/dotplot_operator"
+      },
+      "operatorSpec": {
+       "kind": "OperatorSpec",
+       "ontologyUri": "",
+       "ontologyVersion": "",
+       "inputSpecs": [],
+       "outputSpecs": [],
+       "outputSpecsV2": []
+      }
+     },
+     "environment": [],
+     "operatorModel": {
+      "kind": "OperatorModel"
+     }
+    },
+    "rowTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 63.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 16
+    },
+    "taskId": ""
+   },
+   "computedRelation": {
+    "kind": "Relation",
+    "id": "e7909fd3-75e2-462d-9d59-acdd9345dcaa"
+   },
+   "parentDataStepId": ""
+  },
+  {
+   "kind": "WizardStep",
+   "id": "69c1b156-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "69c1b150-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Wizard",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "69c1b154-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "69c1b155-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 726.505,
+     "y": 162.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Create a generic workflow.",
+   "model": {
+    "kind": "WizardStepModel",
+    "namespace": "UKA_dotplot_app1",
+    "description": "",
+    "appDesignType": "UKA_dotplot_app",
+    "factors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "filters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      },
+      "isRequired": false
+     }
+    ],
+    "steps": [],
+    "defaultFactors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Mean Specificity Score",
+        "type": "double"
+       }
+      ],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Name",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       }
+      ],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Median Kinase Statistic",
+        "type": "double"
+       }
+      ],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "defaultFilters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Specificity filter"
+      },
+      "isRequired": false
+     }
+    ]
+   }
+  },
+  {
+   "kind": "ViewStep",
+   "id": "69c1b158-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "69c1b150-4e14-11f1-b74b-176c6480e1cf",
+   "name": "View",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "69c1b157-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "in"
+    }
+   ],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 723.505,
+     "y": 368.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Used to define view in a sub workflow."
+  },
+  {
+   "kind": "InStep",
+   "id": "69c1d862-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "69c1b150-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Input",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "69c1d860-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "from"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "69c1d861-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "to"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 730.505,
+     "y": 43.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Input of a sub workflow.",
+   "groupPortPosition": {
+    "kind": "Point",
+    "x": 2405.8696899414062,
+    "y": 907.5
+   }
+  },
+  {
+   "kind": "GroupStep",
+   "id": "69c1b150-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "",
+   "name": "UKA_VSN_Sgroup_dotplot",
+   "inputs": [],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 174.71388244628906,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 2322.5127487182617,
+     "y": 915.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "appId": "9e3c35bcfe1a3984fd0fe87285fb95a3",
+   "appName": "UKA_dotplot_app",
+   "version": "0.0.5",
+   "offset": {
+    "kind": "Point",
+    "x": -70.0,
+    "y": 16.0
+   }
+  },
+  {
+   "kind": "DataStep",
+   "id": "6fe24bd3-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "6fe24bd0-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Dot Plot Operator",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "6fe24bd1-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "6fe24bd2-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "data"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 122.24185180664062,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 709.8790740966797,
+     "y": 284.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "model": {
+    "kind": "Crosstab",
+    "axis": {
+     "kind": "XYAxisList",
+     "rectangleSelections": [],
+     "xyAxis": [
+      {
+       "kind": "XYAxis",
+       "chart": {
+        "kind": "ChartPoint",
+        "name": "",
+        "properties": {
+         "kind": "Properties",
+         "properties": [],
+         "propertyValues": []
+        },
+        "pointSize": 4
+       },
+       "colors": {
+        "kind": "Colors",
+        "factors": [
+         {
+          "kind": "Factor",
+          "name": "Median Kinase Statistic",
+          "type": "double"
+         }
+        ],
+        "palette": {
+         "kind": "JetPalette",
+         "backcolor": 0,
+         "properties": [],
+         "isUserDefined": false,
+         "doubleColorElements": [
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "-54.12887750594061"
+          },
+          {
+           "kind": "DoubleColorElement",
+           "color": -1,
+           "stringValue": "59.1175453720017"
+          }
+         ]
+        }
+       },
+       "errors": {
+        "kind": "Errors",
+        "factors": []
+       },
+       "labels": {
+        "kind": "Labels",
+        "factors": []
+       },
+       "xAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 62.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Kinase Name",
+          "type": "string"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "yAxis": {
+        "kind": "Axis",
+        "axisExtent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 30.0
+        },
+        "axisSettings": {
+         "kind": "AxisSettings",
+         "meta": []
+        },
+        "graphicalFactor": {
+         "kind": "GraphicalFactor",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "rectangle": {
+          "kind": "Rectangle",
+          "extent": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          },
+          "topLeft": {
+           "kind": "Point",
+           "x": 0.0,
+           "y": 0.0
+          }
+         }
+        }
+       },
+       "taskId": "",
+       "preprocessors": []
+      }
+     ]
+    },
+    "columnTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 217.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 30.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 4
+    },
+    "filters": {
+     "kind": "Filters",
+     "removeNaN": true,
+     "namedFilters": [
+      {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      }
+     ]
+    },
+    "operatorSettings": {
+     "kind": "OperatorSettings",
+     "namespace": "ds030",
+     "operatorRef": {
+      "kind": "OperatorRef",
+      "name": "Dot Plot Operator",
+      "version": "0.1.5",
+      "operatorId": "17",
+      "operatorKind": "ROperator",
+      "propertyValues": [
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLowerLimit",
+        "value": "-0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorUpperLimit",
+        "value": "0.5"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLimitAutomatic",
+        "value": "true"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLowerLimit",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeUpperLimit",
+        "value": "2"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MinDotSize",
+        "value": "0"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "MaxDotSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "Layout",
+        "value": "Horizontal"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "PlotSize",
+        "value": "12"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "LabelFontSize",
+        "value": "6"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "SizeLegendName",
+        "value": "Specificity"
+       },
+       {
+        "kind": "PropertyValue",
+        "name": "ColorLegendName",
+        "value": "Fold Change"
+       }
+      ],
+      "url": {
+       "kind": "Url",
+       "uri": "https://github.com/pamgene/dotplot_operator"
+      },
+      "operatorSpec": {
+       "kind": "OperatorSpec",
+       "ontologyUri": "",
+       "ontologyVersion": "",
+       "inputSpecs": [],
+       "outputSpecs": [],
+       "outputSpecsV2": []
+      }
+     },
+     "environment": [],
+     "operatorModel": {
+      "kind": "OperatorModel"
+     }
+    },
+    "rowTable": {
+     "kind": "CrosstabTable",
+     "cellSize": 63.0,
+     "offset": 0,
+     "graphicalFactors": [
+      {
+       "kind": "GraphicalFactor",
+       "factor": {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       },
+       "rectangle": {
+        "kind": "Rectangle",
+        "extent": {
+         "kind": "Point",
+         "x": 80.0,
+         "y": 0.0
+        },
+        "topLeft": {
+         "kind": "Point",
+         "x": 0.0,
+         "y": 0.0
+        }
+       }
+      }
+     ],
+     "rectangleSelections": [],
+     "nRows": 16
+    },
+    "taskId": ""
+   },
+   "computedRelation": {
+    "kind": "Relation",
+    "id": "d8b1b63a-2709-4af7-991a-904d4a513b08"
+   },
+   "parentDataStepId": ""
+  },
+  {
+   "kind": "WizardStep",
+   "id": "6fe24bd6-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "6fe24bd0-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Wizard",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "6fe24bd4-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "6fe24bd5-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "relation",
+     "name": "table"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 726.505,
+     "y": 162.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Create a generic workflow.",
+   "model": {
+    "kind": "WizardStepModel",
+    "namespace": "UKA_dotplot_app10",
+    "description": "",
+    "appDesignType": "UKA_dotplot_app",
+    "factors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "filters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Mean Specificity Score"
+      },
+      "isRequired": false
+     }
+    ],
+    "steps": [],
+    "defaultFactors": [
+     {
+      "kind": "MappingFactor",
+      "name": "Mean Specificity Score",
+      "type": "double",
+      "description": "Select the factor that defines the dot size.\n\nExample:\n* Mean Specificity Score",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Mean Specificity Score",
+        "type": "double"
+       }
+      ],
+      "factorName": "Dot size",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Name",
+      "type": "string",
+      "description": "Select the factor that defines the kinase name.\n\nExample:\n* Kinase Name",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Name",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Name",
+      "isSingle": true,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Kinase Family",
+      "type": "string",
+      "description": "Select a factor defining the Kinase Family or other grouping of kinases. \n\nExample:\n* Kinase Family \n* Kinase Group",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Kinase Family",
+        "type": "string"
+       }
+      ],
+      "factorName": "Kinase Family",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Sgroup_contrast",
+      "type": "string",
+      "description": "Select the factor that defines the comparison. \n\nExample:\n* Sgroup_contrast \n* contrast",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Sgroup_contrast",
+        "type": "string"
+       }
+      ],
+      "factorName": "Comparison",
+      "isSingle": false,
+      "isRequired": true
+     },
+     {
+      "kind": "MappingFactor",
+      "name": "Median Kinase Statistic",
+      "type": "double",
+      "description": "Select the factor that defines the fold change. E.g. Kinase Statistic",
+      "ontologyMapping": "",
+      "crosstabMapping": "",
+      "cardinality": "",
+      "factors": [
+       {
+        "kind": "Factor",
+        "name": "Median Kinase Statistic",
+        "type": "double"
+       }
+      ],
+      "factorName": "Fold Change",
+      "isSingle": false,
+      "isRequired": true
+     }
+    ],
+    "defaultFilters": [
+     {
+      "kind": "MappingFilter",
+      "name": "Mean Specificity Score",
+      "description": "Filter for significant hits. E.g. Specificity Score, Kinase Statistic.",
+      "namedFilter": {
+       "kind": "NamedFilter",
+       "logical": "and",
+       "not": false,
+       "filterExprs": [
+        {
+         "kind": "FilterExpr",
+         "filterOp": "greater",
+         "stringValue": "0.7",
+         "factor": {
+          "kind": "Factor",
+          "name": "Mean Specificity Score",
+          "type": "double"
+         },
+         "preProcessors": []
+        }
+       ],
+       "meta": [],
+       "name": "Specificity filter"
+      },
+      "isRequired": false
+     }
+    ]
+   }
+  },
+  {
+   "kind": "ViewStep",
+   "id": "6fe24bd8-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "6fe24bd0-4e14-11f1-b74b-176c6480e1cf",
+   "name": "View",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "6fe24bd7-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "in"
+    }
+   ],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 723.505,
+     "y": 368.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Used to define view in a sub workflow."
+  },
+  {
+   "kind": "InStep",
+   "id": "6fe24bdb-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "6fe24bd0-4e14-11f1-b74b-176c6480e1cf",
+   "name": "Input",
+   "inputs": [
+    {
+     "kind": "InputPort",
+     "id": "6fe24bd9-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "from"
+    }
+   ],
+   "outputs": [
+    {
+     "kind": "OutputPort",
+     "id": "6fe24bda-4e14-11f1-b74b-176c6480e1cf",
+     "linkType": "any",
+     "name": "to"
+    }
+   ],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 88.99000000000001,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 730.505,
+     "y": 43.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "Input of a sub workflow.",
+   "groupPortPosition": {
+    "kind": "Point",
+    "x": 2600.5835723876953,
+    "y": 907.5
+   }
+  },
+  {
+   "kind": "GroupStep",
+   "id": "6fe24bd0-4e14-11f1-b74b-176c6480e1cf",
+   "groupId": "",
+   "name": "UKA_VSN_Test cond_dotplot",
+   "inputs": [],
+   "outputs": [],
+   "rectangle": {
+    "kind": "Rectangle",
+    "extent": {
+     "kind": "Point",
+     "x": 188.2378387451172,
+     "y": 55.0
+    },
+    "topLeft": {
+     "kind": "Point",
+     "x": 2510.4646530151367,
+     "y": 915.5
+    }
+   },
+   "state": {
+    "kind": "StepState",
+    "taskId": "",
+    "taskState": {
+     "kind": "InitState"
+    }
+   },
+   "description": "",
+   "appId": "",
+   "appName": "UKA_VSN_Sgroup_dotplot",
+   "version": "0.0.5",
+   "offset": {
+    "kind": "Point",
+    "x": -1188.0,
+    "y": -500.0
+   }
   }
  ],
  "offset": {
   "kind": "Point",
-  "x": -643.0,
-  "y": 199.0
+  "x": -630.0,
+  "y": 76.0
  },
  "scale": 1.0
 }
