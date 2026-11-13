@@ -18,7 +18,9 @@ Make decisions at the following points:
 
 * interactive volcano plot inside the UKA app
 
-* dotplot (dotplot app after UKA)
+* dotplot (dotplot inside the UKA app)
+
+For the visualization, set relevant threshold, e.g. specificity score > 0.7 as minimum but rather > 1 or > 1.3
 
 7. Use the exported kinase list for further analysis.
 
